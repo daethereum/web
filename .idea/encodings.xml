@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.idea/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/about.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/about.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/feature.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/footer.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/hero-area.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/navigation-2.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/navigation.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/pricing.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/roadmap.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/seo.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/service.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/partials/blocks/team.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/scss/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/scss/templates/_hero-area.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/scss/templates/_homepage.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/service.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/theme/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/theme/js/script.js" charset="UTF-8" />
+  </component>
+</project>
