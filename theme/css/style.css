@@ -1190,6 +1190,7 @@ textarea.form-control {
 
 .contact {
   position: relative;
+  padding-top: 150px;
 }
 .contact-bg-1 {
   position: absolute;
