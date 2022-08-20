@@ -1187,6 +1187,11 @@ textarea.form-control {
   background: #fff1e0;
   color: #ff8b00;
 }
+.service {
+  position: relative;
+  padding-top: 150px;
+}
+
 
 .contact {
   position: relative;
