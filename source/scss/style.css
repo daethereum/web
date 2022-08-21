@@ -437,10 +437,12 @@ a:hover {
   -webkit-border-radius: 10px;
   border-radius: 5px;
 }
-/*.logo img {*/
-/*  width: 50%;*/
-/*  height: auto;*/
-/*}*/
+
+.logo img {
+width: 30%;
+height: auto;
+}
+
 /*@media only screen and (max-width: 480px) {*/
 /*  .logo img {*/
 /*    width: 20%;*/
@@ -1043,7 +1045,6 @@ a:hover {
 .about {
   position: relative;
   overflow: visible;
-  padding-top: 280px;
 }
 .about-video {
   position: relative;
@@ -1414,5 +1415,3 @@ textarea.form-control {
 .img-teams {
   max-width: fit-content;
 }
-
-

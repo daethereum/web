@@ -16,11 +16,11 @@
     <file url="file://$PROJECT_DIR$/source/partials/blocks/seo.htm" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/source/partials/blocks/service.htm" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/source/partials/blocks/team.htm" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/source/scss/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/source/scss/style.css" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/source/scss/templates/_hero-area.scss" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/source/scss/templates/_homepage.scss" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/source/service.html" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/theme/css/style.css" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/theme/js/script.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/theme/css/style.css" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/theme/js/script.js" charset="windows-1252" />
   </component>
 </project>
