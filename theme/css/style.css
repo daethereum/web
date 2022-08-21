@@ -604,6 +604,12 @@ a:hover {
   transition: 0.2s ease;
 }
 
+.wallet {
+  position: relative;
+  overflow: visible;
+  background: #F4F7FC;
+}
+
 .seo {
   position: relative;
   overflow: visible;
